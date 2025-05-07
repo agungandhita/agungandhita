@@ -35,6 +35,5 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img src="https://raw.githubusercontent.com/agungandhita/agungandhita/output/snake.svg" alt="Snake animation" />
 
-
-###
