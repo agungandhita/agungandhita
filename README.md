@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🔭 I’m a teacher of informaatics<br>👯 I’m looking to collaborate on web dev<br>🌱 I’m growth on TIK Volunteer<br>💬 Ask me about web<br>⚡ I'm a friendly
+🔭 I’m a teacher of informatics<br>👯 I’m looking to collaborate on web dev<br>🌱 I’m growth on TIK Volunteer<br>💬 Ask me about web<br>⚡ I'm a friendly
 
 ## 🌐 Socials:
 
